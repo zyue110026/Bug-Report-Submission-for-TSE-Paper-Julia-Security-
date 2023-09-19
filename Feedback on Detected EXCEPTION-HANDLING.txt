@@ -3,33 +3,32 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of EXCEPTION-HANDLING in the following locations: 
 
-Location-1: line 
-Location-2: line 
-Location-3: line 
-Location-4: line 
-Location-5: line 
-Location-6: line 
-Location-7: line 
-Location-8: line 
-Location-9: line 
-Location-10: line 
-Location-11: line 
-Location-12: line 
-Location-13: line 
-Location-14: line 
-Location-15: line 
-Location-16: line 
-Location-17: line 
-Location-18: line 
-Location-19: line 
-Location-20: line 
-Location-21: line 
-Location-22: line 
-Location-23: line 
-Location-24: line 
-Location-25: line 
-Location-26: line 
-Location-27: line 
-Location-28: line 
+Location-1: line 61
+Location-2: line 1033
+Location-3: line 1040
+Location-4: line 1097
+Location-5: line 1113
+Location-6: line 1162
+Location-7: line 1178
+Location-8: line 1231
+Location-9: line 1271
+Location-10: line 1288
+Location-11: line 1378
+Location-12: line 1433
+Location-13: line 1484
+Location-14: line 1495
+Location-15: line 1519
+Location-16: line 1535
+Location-17: line 1643
+Location-18: line 1672
+Location-19: line 1712
+Location-20: line 1787
+Location-21: line 1826
+Location-22: line 1854
+Location-23: line 1859
+Location-24: line 1868
+Location-25: line 1885
+Location-26: line 2670
+Location-27: line 2756
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
