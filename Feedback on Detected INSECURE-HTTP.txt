@@ -1,0 +1,14 @@
+Greetings, 
+
+
+We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of INSECURE-HTTP in the following locations: 
+
+Location-1: line 4
+Location-2: line 6
+Location-3: line 7
+Location-4: line 208
+Location-5: line 209
+Location-6: line 210
+Location-7: line 211
+
+Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
