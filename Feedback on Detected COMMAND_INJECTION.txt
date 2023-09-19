@@ -1,0 +1,11 @@
+Greetings, 
+
+
+We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of COMMAND_INJECTION in the following locations: 
+
+Location-1: 
+Location-2: 
+… 
+Location-n:
+
+Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
