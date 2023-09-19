@@ -1,0 +1,9 @@
+Greetings, 
+
+
+We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of Weak Encryption in the following locations: 
+
+Location-1: line 95
+
+
+Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
