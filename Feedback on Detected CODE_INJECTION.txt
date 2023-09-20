@@ -3,15 +3,15 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of CODE_INJECTION in the following locations: 
 
-Location-1: line 60
-Location-2: line 359
-Location-3: line 490
-Location-4: line 532
-Location-5: line 586
-Location-6: line 666
-Location-7: line 714
-Location-8: line 1404
-Location-9: line 1416
-Location-10: line 1418
+Location-1: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L60
+Location-2: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L359
+Location-3: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L490
+Location-4: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L532
+Location-5: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L586
+Location-6: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L666
+Location-7: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L714
+Location-8: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L1404
+Location-9: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L1416
+Location-10: https://github.com/malmaud/TensorFlow.jl/blob/7735edca7fc0b65b92f7b96b8bd835d8eedc350f/src/core.jl#L1418
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
