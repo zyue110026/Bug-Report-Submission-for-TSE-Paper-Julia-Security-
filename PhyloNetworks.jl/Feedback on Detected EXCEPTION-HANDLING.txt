@@ -3,34 +3,34 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of EXCEPTION-HANDLING in the following locations: 
 
-Location-1: line 25
-Location-2: line 64
-Location-3: line 65
-Location-4: line 85
-Location-5: line 120
-Location-6: line 127
-Location-7: line 129
-Location-8: line 188
-Location-9: line 347
-Location-10: line 355
-Location-11: line 358
-Location-12: line 360
-Location-13: line 364
-Location-14: line 372
-Location-15: line 381
-Location-16: line 387
-Location-17: line 533
-Location-18: line 534
-Location-19: line 535
-Location-20: line 629
-Location-21: line 631
-Location-22: line 683
-Location-23: line 684
-Location-24: line 686
-Location-25: line 710
-Location-26: line 771
-Location-27: line 790
-Location-28: line 791
+Location-1: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L25
+Location-2: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L64
+Location-3: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L65
+Location-4: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L85
+Location-5: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L120
+Location-6: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L127
+Location-7: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L129
+Location-8: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L188
+Location-9: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L347
+Location-10: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L355
+Location-11: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L358
+Location-12: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L360
+Location-13: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L364
+Location-14: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L372
+Location-15: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L381
+Location-16: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L387
+Location-17: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L533
+Location-18: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L534
+Location-19: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L535
+Location-20: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L629
+Location-21: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L631
+Location-22: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L683
+Location-23: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L684
+Location-24: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L686
+Location-25: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L710
+Location-26: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L771
+Location-27: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L790
+Location-28: https://github.com/crsl4/PhyloNetworks.jl/blob/3f1e0975dc272b104dc12723bdb748f608f0f7dd/src/bootstrap.jl#L791
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
 
