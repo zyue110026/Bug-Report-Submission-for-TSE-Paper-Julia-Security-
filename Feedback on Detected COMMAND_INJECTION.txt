@@ -3,13 +3,13 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of COMMAND_INJECTION in the following locations: 
 
-Location-1: line 14
-Location-2: line 19
-Location-3: line 22
-Location-4: line 23
-Location-5: line 38
-Location-6: line 41
-Location-7: line 55
-Location-8: line 56
+Location-1: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L14
+Location-2: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L19
+Location-3: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L22
+Location-4: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L23
+Location-5: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L38
+Location-6: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L41
+Location-7: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L55
+Location-8: https://github.com/CliMA/RRTMGP.jl/blob/b3057d52069a1c5ffd45f4f563634cda41b7949d/OriginalRRTMGP/AutoRunRRTMGP.jl#L56
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
