@@ -3,32 +3,32 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of EXCEPTION-HANDLING in the following locations: 
 
-Location-1: line 61
-Location-2: line 1033
-Location-3: line 1040
-Location-4: line 1097
-Location-5: line 1113
-Location-6: line 1162
-Location-7: line 1178
-Location-8: line 1231
-Location-9: line 1271
-Location-10: line 1288
-Location-11: line 1378
-Location-12: line 1433
-Location-13: line 1484
-Location-14: line 1495
-Location-15: line 1519
-Location-16: line 1535
-Location-17: line 1643
-Location-18: line 1672
-Location-19: line 1712
-Location-20: line 1787
-Location-21: line 1826
-Location-22: line 1854
-Location-23: line 1859
-Location-24: line 1868
-Location-25: line 1885
-Location-26: line 2670
-Location-27: line 2756
+Location-1: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L61
+Location-2: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1033
+Location-3: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1040
+Location-4: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1097
+Location-5: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1113
+Location-6: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1162
+Location-7: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1178
+Location-8: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1231
+Location-9: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1271
+Location-10: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1288
+Location-11: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1378
+Location-12: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1433
+Location-13: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1484
+Location-14: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1495
+Location-15: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1519
+Location-16: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1535
+Location-17: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1643
+Location-18: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1672
+Location-19: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1712
+Location-20: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1787
+Location-21: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1826
+Location-22: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1854
+Location-23: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1859
+Location-24: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1868
+Location-25: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L1885
+Location-26: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L2670
+Location-27: https://github.com/NREL-Sienna/PowerSystems.jl/blob/9fa276b1b019ad9542ad2eb32d59e73c0a593f22/src/parsers/pm_io/data.jl#L2756
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
