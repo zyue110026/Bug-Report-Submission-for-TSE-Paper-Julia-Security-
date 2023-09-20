@@ -3,22 +3,22 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of SUSPICIOUS-COMMENTS in the following locations: 
 
-Location-1: line 41
-Location-2: line 496
-Location-3: line 820
-Location-4: line 826
-Location-5: line 1117
-Location-6: line 1183
-Location-7: line 1217
-Location-8: line 1413
-Location-9: line 1414
-Location-10: line 1415
-Location-11: line 1476
-Location-12: line 1477
-Location-13: line 1478
-Location-14: line 1511
-Location-15: line 1558
-Location-16: line 87
-Location-17: line 269
+Location-1: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L41
+Location-2: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L496
+Location-3: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L820
+Location-4: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L826
+Location-5: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1117
+Location-6: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1183
+Location-7: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1217
+Location-8: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1413
+Location-9: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1414
+Location-10: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1415
+Location-11: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1476
+Location-12: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1477
+Location-13: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1478
+Location-14: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1511
+Location-15: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L1558
+Location-16: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L87
+Location-17: https://github.com/CoherentStructures/CoherentStructures.jl/blob/d90f74512c2e245b71fa2ef3800ded51ce53ec20/src/gridfunctions.jl#L269
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
