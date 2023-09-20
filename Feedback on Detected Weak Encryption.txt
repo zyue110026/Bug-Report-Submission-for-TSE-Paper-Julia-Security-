@@ -3,7 +3,7 @@ Greetings,
 
 We are some security researchers who have built a scanner to detect known security weaknesses. For your repository, we have found instances of Weak Encryption in the following locations: 
 
-Location-1: line 95
+Location-1: https://github.com/JuliaCloud/AWS.jl/blob/100c30ec942e5e38d4a987dbef6b30c85dda9fbf/test/AWS.jl#L95
 
 
 Please give us feedback. Do you think these are valid instances on security weaknesses? Will you fix them? 
